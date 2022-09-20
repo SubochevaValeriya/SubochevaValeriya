@@ -8,7 +8,7 @@
 ## About Me
 
 - 🌱 I like programming, Golang and learning new things ⚡
-- 💬 I aim to become better as a software engineer, constantly working on self-improvement (first of all, this includes working on pet-projects). I looking forward to the opportunity of using my skills for solving interesting problems.
+- 💬 I aim to become better as a software engineer, constantly working on self-improvement (first of all, this includes working on pet-projects). I looking forward to the opportunity of using my skills on interesting tasks.
 - 🗣 Speak Russian (native), read professional literature in English (B2)
 - 📫 How to reach me: https://t.me/valeriya09s
 - 📝 [Resume / CV](https://github.com/Val/cv/blob/main/README.md)
