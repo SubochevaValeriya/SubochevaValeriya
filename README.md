@@ -8,7 +8,9 @@
 ## About Me
 
 - 🌱 I like programming, Golang and learning new things ⚡
-- 💬 Looking forward to achieving the goals of self-improvement while working on projects
+- 💬 I aim to become better as a software engineer, constantly working on self-improvement (first of all, this includes working on pet-projects). Looking forward to opportunity of using my skills on interesting tasks.
+
+Looking forward to achieving the goals of self-improvement as a software engineer, working on projects, Looking forward to achieving the goals of self-improvement while working on projects, striving to be a better software engineer.
 - 🗣 Speak Russian (native), read professional literature in English (B2)
 - 📫 How to reach me: https://t.me/valeriya09s
 - 📝 [Resume / CV](https://github.com/Val/cv/blob/main/README.md)
