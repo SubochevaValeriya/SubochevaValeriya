@@ -15,7 +15,6 @@
 
 ## Technology Stack
 
-![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows)
 ### Languages
   Сonstantly use and try to develop my knowledge ❤️:
       ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat-square&logo=golang&logoColor=3776AB)
@@ -25,17 +24,16 @@
       ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=JavaScript)
   
 ### Infrastructure and DevOps
+  :
       ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
-      
       ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
       ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
       ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=FFFFFF)
-      ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis)
-      ![Nats-streaming](https://img.shields.io/badge/-Nats-streaming-333333?style=flat&logo=Nats-streaming)
+      ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis)/
       ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=Swagger&logoColor=F80000)
       ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=Swagger&logoColor=F80000)
-      
 ### Enviroment, IDEs and Tools
+:
       ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ+IDEA-333333?style=flat&logo=IntelliJ+IDEA)
       ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
       ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=Visual-Studio-Code&logoColor=007ACC)
