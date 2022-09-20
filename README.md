@@ -47,5 +47,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SubochevaValeriya&show_icons=true&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubochevaValeriya&show_icons=true&hide_border=true&layout=compact"/>
 </p>
-
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SubochevaValeriya&show_icons=true&locale=en" alt="vivirinter" /></p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SubochevaValeriya&show_icons=true&locale=en&layout=compact" alt="vivirinter" /></p>
