@@ -24,7 +24,7 @@
       ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=JavaScript)
   
 ### Infrastructure and DevOps
-  /
+:
       ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
       ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
       ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
@@ -33,7 +33,7 @@
       ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=Swagger&logoColor=F80000)
       ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=Swagger&logoColor=F80000)
 ### Enviroment, IDEs and Tools
-/
+:
       ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ+IDEA-333333?style=flat&logo=IntelliJ+IDEA)
       ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
       ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=Visual-Studio-Code&logoColor=007ACC)
