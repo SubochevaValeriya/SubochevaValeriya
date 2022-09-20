@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Valeriya 😺
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hardkoro/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in//)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/@aleriya09s)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-d93025?style=flat-square&logo=GMail&logoColor=white)](mailto:valeriya.subocheva@gmail.com)
 [![LeetCode user SubochevaValeriya](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fcascandaliato&logo=SubochevaValeriya&logoColor=yellow)](https://leetcode.com/SubochevaValeriya/)
