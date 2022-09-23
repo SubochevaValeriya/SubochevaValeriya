@@ -1,4 +1,4 @@
-## Hi 👋, I'm Valeriya 😺
+## Hi 👋, I'm Valeriya
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/valeriya09s)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-d93025?style=flat-square&logo=GMail&logoColor=white)](mailto:valeriya.subocheva@gmail.com)
@@ -15,7 +15,7 @@
 ## Technology Stack
 
 ### Languages
-  Сonstantly use and try to improve my knowledge ❤️:
+  Сonstantly use and try to improve my knowledge:
       ![Golang](https://img.shields.io/badge/-Golang-333333?style=flat-square&logo=golang&logoColor=3776AB)
   
   Know some basics (took small courses and taught at the university):
