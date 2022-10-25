@@ -28,6 +28,7 @@
       ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=FFFFFF)
       ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
       ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=FFFFFF)
+      ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB&logoColor=FFFFFF)
       ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=Redis)
       ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=Swagger&logoColor=F80000)
       ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=Swagger&logoColor=F80000)
